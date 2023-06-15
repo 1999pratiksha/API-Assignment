@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T13:46:36 GMT-04:00" name="Default suite" finished-at="2023-06-15T13:46:37 GMT-04:00" duration-ms="1016">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T13:46:36 GMT-04:00" name="Default test" finished-at="2023-06-15T13:46:37 GMT-04:00" duration-ms="1016">
+      <class name="Reqress.Delete">
+        <test-method is-config="true" signature="setBaseurl()[pri:0, instance:Reqress.Delete@6193932a]" started-at="2023-06-15T13:46:36 GMT-04:00" name="setBaseurl" finished-at="2023-06-15T13:46:37 GMT-04:00" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseurl -->
+        <test-method signature="Created()[pri:1, instance:Reqress.Delete@6193932a]" started-at="2023-06-15T13:46:37 GMT-04:00" name="Created" finished-at="2023-06-15T13:46:37 GMT-04:00" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Created -->
+        <test-method signature="Update()[pri:2, instance:Reqress.Delete@6193932a]" started-at="2023-06-15T13:46:37 GMT-04:00" name="Update" finished-at="2023-06-15T13:46:37 GMT-04:00" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update -->
+        <test-method signature="Delete()[pri:3, instance:Reqress.Delete@6193932a]" started-at="2023-06-15T13:46:37 GMT-04:00" name="Delete" finished-at="2023-06-15T13:46:37 GMT-04:00" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete -->
+      </class> <!-- Reqress.Delete -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
